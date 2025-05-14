@@ -8,7 +8,7 @@ Hathrasil,Markarth,Male,Breton,Baker
 Kleppr,Markarth,Male,Nord,Bartender
 Cosnach,Markarth,Male,Nord,Porter
 Degaine,Markarth,Male,Nord,Miner
-UnnamedWoman,Markarth,Female,Nord,Janitor
+None,Markarth,Female,Nord,Janitor
 Vorstag,Markarth,Male,Nord,Mercenary
 Muiri,Markarth,Female,Nord,PotionMaker
 Bothela,Markarth,Female,Nord,Potionmaker
@@ -57,7 +57,7 @@ None,Markarth,Male,Nord,Guard
 None,Markarth,Male,Nord,Guard
 Calcelmo,Markarth,Male,Dunmer,Wizard
 None,Markarth,Male,Dunmer,Wizard
-Brother Verulus,Markarth,Male,Dunmer,undertaker
+Brother Verulus,Markarth,Male,Dunmer,Undertaker
 Thonvor Silver-Blood,Markarth,Male,Nord,Entrepreneur
 Moth gro-Bagol,Markarth,Male,Ork,Blacksmith
 Doggo,Markarth,Male,Dog,N/A
@@ -82,3 +82,60 @@ None,Markarth,Female,imperial,N/A
 None,Markarth,Male,Imperial,Miner
 None,Markarth,Male,Imperial,Miner
 None,Markarth,Male,Imperial,Miner
+Nils,WindHelm,Male,Nord,Cook
+None,WindHelm,Male,Dunmer,Farmer
+None,WindHelm,Female,Nord,Farmer
+None,WindHelm,Male,Nord,Farmer
+None,WindHelm,Male,Nord,Farmer
+None,WindHelm,Female,Nord,Farmer
+None,WindHelm,Male,Argonian,Blacksmith
+None,WindHelm,Male,Nord,Boat Worker
+None,WindHelm,Male,Nord,Boat Worker
+None,WindHelm,Male,Nord,Boat Worker
+None,WindHelm,Male,Nord,Boat Worker
+None,WindHelm,Male,Nord,Boat Worker
+None,WindHelm,Male,Nord,Boat Worker
+Gort,WindHelm,Male,Nord,Entrepreneur
+Sofie,WindHelm,Female,Nord,N/A
+Bulfried,WindHelm,Male,Dunmer,Entrepreneur
+None,WindHelm,Male,Dunmer,Merchant
+Malthyr Elenil,WindHelm,Male,Dunmer,Merchant
+None,WindHelm,Male,Dunmer,Janitor
+Angrenor Once-Honored,WindHelm,Male,Nord,Unemployed
+None,WindHelm,Female,Nord,N/A
+None,WindHelm,Female,Nord,Undertaker
+None,WindHelm,Male,Imperial,Entrepreneur
+Silda the Unseen,WindHelm,Female,Imperial,Unemployed
+None,WindHelm,Male,Nord,Blacksmith
+None,WindHelm,Female,Nord,Blacksmith
+None,WindHelm,Male,Dunmer,Merchant
+Niranye,WindHelm,Female,Dunmer,Merchant
+None,WindHelm,Male,Nord,Mercenary
+Captain Lonely-Gale,WindHelm,Male,Nord,N/A
+Torbjorn Shatter-Shield,WindHelm,Male,Nord,Trainer
+None,WindHelm,Female,Nord,N/A
+None,WindHelm,Male,Nord,StormCloakSoldier
+None,WindHelm,Male,Nord,Servant
+None,WindHelm,Male,Nord,StormCloakSoldier
+Ulfric StormCloak,WindHelm,Male,Nord,StormCloakLeader
+None,WindHelm,Male,Nord,Servant
+None,WindHelm,Male,Nord,Wizard
+None,WindHelm,Female,Nord,Merchant
+None,WindHelm,Female,Dunmer,Janitor
+None,WindHelm,Male,Nord,Bard
+Rolff Stone-Fist,WindHelm,Male,Nord,Unemployed
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
+None,WindHelm,Male,Nord,Guard
