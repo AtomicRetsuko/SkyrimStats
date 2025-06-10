@@ -117,7 +117,7 @@ None,WindHelm,Female,Nord,N/A
 None,WindHelm,Male,Nord,StormCloakSoldier
 None,WindHelm,Male,Nord,Servant
 None,WindHelm,Male,Nord,StormCloakSoldier
-Ulfric StormCloak,WindHelm,Male,Nord,StormCloakLeader
+Ulfric StormCloak,WindHelm,Male,Nord,Jarl
 None,WindHelm,Male,Nord,Servant
 None,WindHelm,Male,Nord,Wizard
 None,WindHelm,Female,Nord,Merchant
@@ -139,3 +139,32 @@ None,WindHelm,Male,Nord,Guard
 None,WindHelm,Male,Nord,Guard
 None,WindHelm,Male,Nord,Guard
 None,WindHelm,Male,Nord,Guard
+Faralda,WinterHold,Female,HighElf,Wizard
+Mirabelle Ervine,WinterHold,Female,Breton,HeadMaster
+Savos Aren,WinterHold,Male,Dunmer,ArchMage
+Ancano,WinterHold,Male,HighElf,ArchMageAdvisor
+Tolfdir,WinterHold,Male,Nord,Teacher
+None,WinterHold,Male,Khajiit,Student
+None,WinterHold,Female,Dunmer,Student
+None,WinterHold,Female,Nord,Student
+Sergius Turrianus,WinterHold,Male,Nord,Wizard
+Nirya,WinterHold,Female,HighElf,Student
+Urag gro-Shub,WinterHold,Male,Ork,Librarian
+None,WinterHold,Male,Nord,Wizard
+Drevis Neloren,WinterHold,Male,Dunmer,Merchant
+Colette Marence,WinterHold,Female,Imperial,Teacher
+None,WinterHold,Male,Nord,N/A
+Kraldar,WinterHold,Male,Nord,N/A
+Birna,WinterHold,Female,Nord,Merchant
+None,WinterHold,Male,Nord,Guard
+None,WinterHold,Male,Nord,Guard
+None,WinterHold,Male,Nord,Entrepreneur
+Haran,WinterHold,Female,Nord,Entrepreneur
+Ranmir,WinterHold,Male,Nord,Unemployed
+Nelacar,WinterHold,Male,Dunmer,Wizard
+None,WinterHold,Female,Nord,Guard
+None,WinterHold,Male,Dunmer,Servant
+None,WinterHold,Male,Nord,N/A
+Korir,WinterHold,Male,Nord,Jarl
+None,WinterHold,Female,Nord,Servant
+None,WinterHold,Male,Nord,Steward
